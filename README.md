@@ -11,7 +11,7 @@ import SoftwareDeveloper from 'dominiquehosea';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Dominique Hosea';
-  title    = 'Software Engineer';
+  title    = 'Software Developer';
   company  = 'State Farm | Remote';
   location = 'Houston, TX';
 }
